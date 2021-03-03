@@ -1,4 +1,4 @@
-# windows-tts-button
+# Text-To-Speech Button for Windows (Experimental Beta)
 A convenient Text-to-Speech button for Windows. (Written for Windows 10.)
 
 This program should be pinned to the Taskbar.
