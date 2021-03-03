@@ -11,3 +11,11 @@ To change the voice used:
 
 - 1. Go to 'Control Panel > Ease of Access > Speech Recognition > Text to Speech > Voice Selection.' 
 - 2. (Optional) More languages can be added to this dropdown through 'Settings App > Time & Language > Language > Preffered Languages.' (Ignore the 'Speech' Section in the 'Settings App', this script does not use that.)
+
+---
+To try the program out:
+
+1. Open Notepad and type some text.
+2. Highlight the text. 📄
+3. Click the program in the taskbar.
+4. The highlighted text should be read out. 🔊
